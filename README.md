@@ -16,7 +16,7 @@ The project is carried out by four students under the guidance of **Dr. Mary Sam
 
 - Amaan Siddiquie
 - Ankit Singh
-- B. Prasad
+- B.Prasad
 - Vidya Bhushan
 
 **Faculty Guide:** Dr. Mary Samuel
